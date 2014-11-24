@@ -2,7 +2,9 @@
 
 Simple function to save images in a directory one by one to a PowerPoint presentation
 
-# exmample
+# dependancies
+You will need [Python PPTX](https://python-pptx.readthedocs.org/en/latest/)
+# example
 
 The image below is saved twice in this repo.
 
