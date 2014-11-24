@@ -6,7 +6,7 @@ Simple function to save images in a directory one by one to a PowerPoint present
 
 The image below is saved twice in this repo.
 
-!()[test.png]
+![](test.png)
 
 Use the test() function to write it to test.pptx
 
